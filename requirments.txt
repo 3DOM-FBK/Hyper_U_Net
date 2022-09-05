@@ -1,0 +1,6 @@
+The list below are the required libraries to run the “train” file. the mentioned versions are the ones used to train our model but not necessary must be the same 
+tensorflow 2.1.0
+opencv 3.4.1
+numpy 1.19.2
+scikit-learn 0.24.2
+scikit-image 0.17.2
